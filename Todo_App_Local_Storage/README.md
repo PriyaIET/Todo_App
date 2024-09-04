@@ -10,5 +10,5 @@ Currently, two official plugins are available:
 # Todo Application Preview
 
 ```
-![alt text](./TodoApp.png)
+![TodoApp](./TodoApp.png)
 ```
